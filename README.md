@@ -8,7 +8,7 @@
 ## About
 [![GitHub](https://img.shields.io/badge/GitHub-Shxuuer-blue?logo=github)](https://github.com/shxuuer)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen?logo=homepage)](https://shxuuer.github.io)
-[![Netease](https://img.shields.io/badge/Website-Shxuuer-red?logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=3318691144)
+[![Netease](https://img.shields.io/badge/Netease-Shxuuer-red?logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=3318691144)
 
 ## Appendix
 ### Star history
