@@ -1,9 +1,9 @@
 # shxuuer
 **Repository for BUPT SoF Hall-of-Famer Shen Xu aka Shxuuer**
 
-![GitHub forks](https://img.shields.io/github/forks/zzyking/shxuuer.svg?style=social)
-![GitHub stars](https://img.shields.io/github/stars/zzyking/shxuuer.svg?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/zzyking/shxuuer.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/zzyking/shxuuer?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zzyking/shxuuer?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/zzyking/shxuuer?style=social)
 
 ## About
 [![GitHub](https://img.shields.io/badge/GitHub-Shxuuer-blue?logo=github)](https://github.com/shxuuer)
